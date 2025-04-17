@@ -1,2 +1,2 @@
-Hi this is Latish REpository
+Hi this is Latish Repository
 welcome you all
